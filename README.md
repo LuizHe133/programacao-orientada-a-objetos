@@ -1,2 +1,2 @@
-# programacao-orientada-a-objetos
-repositório de codigos da disciplina Programação orientada a objetos
+# programacao-orientada-a-objetos-2s-2025
+Repositório de códigos da disciplina Programação Orientada a Objetos
